@@ -35,7 +35,7 @@ npm start
 
 ## Vision
 
-ek free, modern GCS — jo offline bhi kaam kare.
+offline work
 
 ## Contributing
 PRs welcome. Issues welcome. Stars welcome. 🙏
